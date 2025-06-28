@@ -5,7 +5,9 @@ This is a basic HTML project I'm building as a part of The Odin Project.It's sim
 Right now , it's all built using just plain HTML - no CSS or Javascript yet. The goal is to practice structuring web pages properly,linking between them,and using basic tags like images,headings,lists and paragaraphs.
 
 ##Recipe Added
--Chichken Masala
+-Puran Poli
+-Chicken Biryani
+-Butter Chicken
 -(More to Come!)
 
 Each recipe has an image, a short description,the ingredients,and the steps to make it 
