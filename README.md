@@ -18,4 +18,4 @@ Each recipe has an image, a short description,the ingredients,and the steps to m
 -Organizing files into folders(like a real project)
 -Using Git and Github to manage my code and push changes online
 
-This is just a start - I'll improve the look and feel later when i learn the CSS.
+This is just a start - I'll improve the look and feel later when i learn more CSS.
